@@ -1,8 +1,13 @@
 # Niginx
 
+```
 touch /etc/nginx/sites-available/your-domain or dir
+```
 
+
+```
 sudo nano /etc/nginx/sites-available/your-domain
+```
 
 ```
 
